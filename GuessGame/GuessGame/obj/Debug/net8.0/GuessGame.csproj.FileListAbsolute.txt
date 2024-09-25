@@ -1,0 +1,14 @@
+C:\Users\kerem\source\repos\GuessGame\GuessGame\bin\Debug\net8.0\GuessGame.exe
+C:\Users\kerem\source\repos\GuessGame\GuessGame\bin\Debug\net8.0\GuessGame.deps.json
+C:\Users\kerem\source\repos\GuessGame\GuessGame\bin\Debug\net8.0\GuessGame.runtimeconfig.json
+C:\Users\kerem\source\repos\GuessGame\GuessGame\bin\Debug\net8.0\GuessGame.dll
+C:\Users\kerem\source\repos\GuessGame\GuessGame\bin\Debug\net8.0\GuessGame.pdb
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\GuessGame.AssemblyInfoInputs.cache
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\GuessGame.AssemblyInfo.cs
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\GuessGame.dll
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\refint\GuessGame.dll
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\GuessGame.pdb
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\GuessGame.genruntimeconfig.cache
+C:\Users\kerem\source\repos\GuessGame\GuessGame\obj\Debug\net8.0\ref\GuessGame.dll
